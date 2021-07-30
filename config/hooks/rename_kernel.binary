@@ -1,0 +1,4 @@
+#!/bin/bash -e
+
+mv binary/casper/initrd.img-* binary/casper/initrd.lz
+mv binary/casper/vmlinuz-* binary/casper/vmlinuz
